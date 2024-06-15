@@ -1,5 +1,5 @@
 # my_data_science_learning
-Materials for my data science learning with datawithmala
+Materials for my data science learning with data wit hmala
 
 
 This notebook contains the code and matrical that i used to learn data : 
@@ -9,7 +9,7 @@ I learn data scicenc with mala
 
 ## Introduction
 
-This repository contains the materials and code I used for learning data science with DataWithMala. The content is organized to provide a comprehensive overview of various data science topics, from foundational concepts to advanced techniques.
+This repository contains the materials and code I used for learning data science with Data With Mala. The content is organized to provide a comprehensive overview of various data science topics, from foundational concepts to advanced techniques.
 
 ## Repository Structure
 
@@ -24,9 +24,4 @@ This repository contains the materials and code I used for learning data science
 4. **Statistics**: Applying statistical methods to understand and interpret data.
 5. **Projects**: Practical projects to apply the learned concepts in real-world scenarios.
 
-## Getting Started
 
-To get started with this repository, clone it to your local machine using the following command:
-
-```sh
-git clone https://github.com/Prashant-Bishwo/my-data-science-learning.git
