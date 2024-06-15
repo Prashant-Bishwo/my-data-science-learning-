@@ -1,4 +1,4 @@
-# my-data-science-learning-
+# my_data_science_learning
 Materials for my data science learning with datawithmala
 
 
